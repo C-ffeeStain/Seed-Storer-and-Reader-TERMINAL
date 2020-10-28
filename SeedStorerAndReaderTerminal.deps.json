@@ -22,14 +22,6 @@
             "fileVersion": "12.0.3.23909"
           }
         }
-      },
-      "System.Windows.Forms/2.0.0.0": {
-        "runtime": {
-          "System.Windows.Forms.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.50727.9136"
-          }
-        }
       }
     }
   },
